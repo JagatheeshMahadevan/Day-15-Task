@@ -1,0 +1,16 @@
+#countdown {
+	font-size: 3em;
+	text-align: center;
+	margin-top: 20%;
+}
+
+#countdown-number {
+	color: red;
+}
+
+#message {
+	font-size: 4em;
+	text-align: center;
+	margin-top: 20%;
+	display: none;
+}
